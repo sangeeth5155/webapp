@@ -49,6 +49,9 @@
  
     
   </dependencies>
+  <profiles>
+   <profile>
+     <id>releases</id> 
   <build>
     <finalName>web</finalName>
 <plugins>
@@ -81,4 +84,6 @@
     
 </plugins>
 </build>
+</profile>
+</profiles>
 </project>
