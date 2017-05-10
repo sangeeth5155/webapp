@@ -38,8 +38,7 @@ public class DisplayData implements Serializable{
 	{
 		this.fees=fees;
 	}
-       
-  
+        
     public DisplayData() {
         super();
         // TODO Auto-generated constructor stub
