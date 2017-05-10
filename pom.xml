@@ -3,7 +3,7 @@
   <groupId>org.webapp</groupId>
   <artifactId>web</artifactId>
   <packaging>war</packaging>
-  <version>0.0.5-SNAPSHOT</version>
+  <version>0.0.6-SNAPSHOT</version>
   <name>web Maven Webapp</name>
   <url>http://maven.apache.org</url>
   
