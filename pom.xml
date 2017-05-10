@@ -11,7 +11,7 @@
 <scm>
      <connection>scm:git:https://github.com/sangeeth5155/webapp.git</connection>
      <url>scm:git:https://github.com/sangeeth5155/webapp.git</url>
-    <tag>web</tag>
+    <tag>web-0.0.6</tag>
   </scm>
   
   <distributionManagement>
