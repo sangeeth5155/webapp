@@ -2,9 +2,7 @@ package org.webapp;
 import java.io.Serializable;
 
 
-/**
- * Servlet implementation class DisplayData
- */
+
 public class DisplayData implements Serializable{
 	private static final long serialVersionUID = 1L;
 	private String stname,rollno,course,fees;
@@ -41,9 +39,7 @@ public class DisplayData implements Serializable{
 		this.fees=fees;
 	}
        
-    /**
-     * @see HttpServlet#HttpServlet()
-     */
+  
     public DisplayData() {
         super();
         // TODO Auto-generated constructor stub
