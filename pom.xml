@@ -15,10 +15,10 @@
     </scm>
   
   <distributionManagement>
-  <repository>
+  <releaseRepository>
     <id>nexus</id>
     <url>http://localhost:8081/nexus/content/repositories/releases</url>
-    </repository> 
+    </releaseRepository> 
     <repository>
         <id>MavenRelease</id>
         <url>https://github.com/sangeeth5155/webapp.git</url>
