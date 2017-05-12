@@ -15,10 +15,10 @@
     </scm>
   
   <distributionManagement>
-  <snapshotRepository>
+  <repository>
     <id>nexus</id>
-    <url>http://localhost:8081/nexus/content/repositories/snapshots</url>
-    </snapshotRepository> 
+    <url>http://localhost:8081/nexus/content/repositories/releases</url>
+    </repository> 
     <repository>
         <id>MavenRelease</id>
         <url>https://github.com/sangeeth5155/webapp.git</url>
