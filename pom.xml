@@ -17,7 +17,7 @@
   <distributionManagement>
   <snapshotRepository>
     <id>nexus</id>
-    <url>http://182.19.39.173:8081/nexus/content/repositories/releases</url>
+    <url>http://localhost:8081/nexus/content/repositories/releases</url>
     </snapshotRepository> 
     <repository>
         <id>MavenRelease</id>
